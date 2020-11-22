@@ -1,5 +1,6 @@
 # openObject
-Javascript function to explore javasript Object and can explore string, number, function and other javascript instance as Object.
+openObject serves to explore the structure of the object
+overall.
 
 ### require
  - jQuery.js
