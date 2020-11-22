@@ -1,6 +1,5 @@
 # openObject
-openObject serves to explore the structure of the object
-overall.
+openObject serves to explore the structure of the object as a whole, like the console. However, you can run methods on objects and edit the string or number property.
 
 ### require
  - jQuery.js
