@@ -1,10 +1,10 @@
 /*
-* Open Object
+* Show Object
 *
 * versi 2.5.2
 *
 * Ini adalah project terbuka.
-* Open object berfungsi untuk
+* Show object berfungsi untuk
 * menampilkan struktur objek
 * secara keseluruhan.
 *
@@ -14,7 +14,7 @@
 * Dibuat oleh Restu Fauzi.
 *  ©2020
 */
-"use strict";!function(a,b){"object"==typeof exports&&"undefined"!=typeof module?module.exports=b(require("jquery")):"function"==typeof define&&define.amd?define(["jquery"],b):(a||self).openObject=b(jQuery||$)}
+"use strict";!function(a,b){"object"==typeof exports&&"undefined"!=typeof module?module.exports=b(require("jquery")):"function"==typeof define&&define.amd?define(["jquery"],b):(a||self).showObject=b(jQuery||$)}
 (this,function($){
 	const 
 	a = {
