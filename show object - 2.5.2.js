@@ -132,8 +132,8 @@
 		g: (a,b)=>String(a.n).localeCompare(b.n),
 		h: (a)=>eval.call(null,a),
 	};
-	function openObject(_){
+	function showObject(_){
 		return a.a({n:'_',o:{_},p:null}).get(0)
 	}
-	return openObject
+	return showObject
 });
