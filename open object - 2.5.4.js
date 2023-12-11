@@ -88,7 +88,7 @@
 		d(a){
 			if(!a.v)
 				return $('<fieldset>').append(a.d.get?['get: ',this.e({o:a.o,v:a.d.get})]:'',a.d.set?['set: ',this.e({o:a.o,v:a.d.set})]:'');
-			if(a.d.value?.constructor == Symbol)
+			if("symbol"==typeof a.d.value)
 				return $('<fieldset>').append('<legend>Symbol description</legend>',$('<code>').text(a.d.value?.description));
 			if("function"==typeof a.d.value)
 				return $('<fieldset>').append(this.e({o:a.o,v:a.d.value}));
