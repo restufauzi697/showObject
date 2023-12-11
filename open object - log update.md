@@ -1,3 +1,6 @@
+## version 2.5.4
+- improve the performance.
+
 ## version 2.5.3
 - bug fixed.
 
@@ -5,7 +8,7 @@
 - improve property syncronous.
 
 ## version 2.5.1
-- improve value viewer not syncron with value property when change value.
+- upgrade asynchronous value viewer with value property when changing value.
 
 ## version 2.5.0
 - add Symbol description viewer.
