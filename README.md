@@ -1,5 +1,5 @@
 # showObject
-showObject serves to explore the structure of the object as a whole, like the console. However, you can run methods on objects and edit the string or number property.
+showObject functions to explore the overall structure of an object, such as a console.  However, you can run methods on objects and edit string or number properties.
 
 ### require
  - jQuery.js
